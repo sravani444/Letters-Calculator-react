@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+.suggestion-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.suggestion-text {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.arrow-icon {
+  width: 30px;
+  height: 30px;
+}
