@@ -76,7 +76,7 @@ Use these files to complete the implementation:
   <summary>Image Urls</summary>
 
 <br/>
-   -https://assets.ccbp.in/frontend/react-js/stop-watch-with-calculator-img.png  alt should be letters calculator
+   https://assets.ccbp.in/frontend/react-js/stop-watch-with-calculator-img.png  alt should be letters calculator
 </details>
 
 <details>
